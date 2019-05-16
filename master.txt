@@ -1,2 +1,3 @@
 # Create a master.txt file and submit a commit
 commit change
+submit commit
